@@ -1,3 +1,11 @@
+---
+excerpt: 分享一篇国外帖子，关于iOS的自动化测试的难点问题
+layout: post
+category : blog
+tags: [XCUITest,iOS]
+lang: zh
+---
+
 # Why XCUITest So Bad
 
 
